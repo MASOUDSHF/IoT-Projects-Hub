@@ -15,7 +15,7 @@ The repository is structured as follows:
 - `projects/`: This directory contains individual IoT projects, each stored in its own subdirectory. Each project subdirectory includes the sample code, hardware schematics, and step-by-step documentation for building and setting up the project.
 - `documentation/`: Here, you will find additional documentation and resources related to IoT concepts, best practices, and specific technologies commonly used in IoT projects.
 - `contributing/`: If you would like to contribute to this repository by adding your own IoT project, please refer to the guidelines outlined in the CONTRIBUTING.md file.
-- `license/`: This directory contains the license information for this repository.
+- `license/`: This directory contains the license information for this repository...
 
 ## Getting Started
 
